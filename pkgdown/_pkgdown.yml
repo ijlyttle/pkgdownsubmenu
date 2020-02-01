@@ -1,0 +1,15 @@
+destination: docs
+
+navbar:
+  structure:
+    left:  [home, intro, reference, toplevel, articles, news]
+    right: [github]
+  components:
+    toplevel:
+      text: title
+      menu:
+      - text: overview
+      - text: ---
+      - text: topic
+        menu:
+        - text: sub-topic
